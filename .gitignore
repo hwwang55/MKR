@@ -102,4 +102,8 @@ data/book/*
 !data/book/item_index2entity_id.txt
 !data/book/BX-Book-Ratings.csv
 !data/book/kg.txt
+data/music/*
+!data/music/item_index2entity_id.txt
+!data/music/user_artists.dat
+!data/music/kg.txt
 data/news/*
