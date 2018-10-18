@@ -35,13 +35,13 @@ This repository is the implementation of MKR.
     $ cd src
     $ python preprocess.py --dataset book
     ```
-    open `main.py` file;
+  - open `main.py` file;
     
-    comment the code blocks of parameter settings for MovieLens-1M;
+  - comment the code blocks of parameter settings for MovieLens-1M;
     
-    uncomment the code blocks of parameter settings for Book-Crossing;
+  - uncomment the code blocks of parameter settings for Book-Crossing;
     
-    ```
+  - ```
     $ python main.py
     ```
 - Music
@@ -49,12 +49,12 @@ This repository is the implementation of MKR.
     $ cd src
     $ python preprocess.py --dataset music
     ```
-    open `main.py` file;
+  - open `main.py` file;
     
-    comment the code blocks of parameter settings for MovieLens-1M;
+  - comment the code blocks of parameter settings for MovieLens-1M;
     
-    uncomment the code blocks of parameter settings for Last.FM;
+  - uncomment the code blocks of parameter settings for Last.FM;
     
-    ```
+  - ```
     $ python main.py
     ```
