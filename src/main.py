@@ -23,7 +23,7 @@ parser.add_argument('--kge_interval', type=int, default=3, help='training interv
 '''
 # book
 parser.add_argument('--dataset', type=str, default='book', help='which dataset to use')
-parser.add_argument('--n_epochs', type=int, default=5, help='the number of epochs')
+parser.add_argument('--n_epochs', type=int, default=10, help='the number of epochs')
 parser.add_argument('--dim', type=int, default=8, help='dimension of user and entity embeddings')
 parser.add_argument('--L', type=int, default=1, help='number of low layers')
 parser.add_argument('--H', type=int, default=1, help='number of high layers')
