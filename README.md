@@ -1,6 +1,6 @@
 # MKR
 
-This repository is the implementation of MKR (arXiv link is coming soon):
+This repository is the implementation of MKR ([arXiv](https://arxiv.org/abs/1901.08907)):
 
 > Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation  
 Hongwei Wang, Fuzheng Zhang, Miao Zhao, Wenjie Li, Xing Xie, and Minyi Guo.  
